@@ -1,0 +1,391 @@
+
+X:1
+T:Wohlfahrt 1  (Op. 45 No. 1 )
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+"C""^\n              \n              \n\n" cBcB cded | cBcB cGEG | cBcB cded | cBcB cGEG | 
+"C" cBcB cdef |"G" gaba gfed |"C" cBcB cBAG |"G" FEDC B,G,A,B, |"C" CB,CB, CB,CB, | CEGc ecGE | 
+CB,CB, CB,CB, | CEGc ecGE |"Dm" FGAG FGAG | FGAG FEDC |"G" B,A,G,A, B,CDE | FEDE FGAB | 
+"C" cBcd efga |"G" baga baga | baga gfdB | GBdf gfdB |"C" cBcB cded |"C" cBcB cGEG |"C" cBcB cded | 
+"C" cBcB cGEG |"C" cded cded |"C" cecG EcGE |"C" CB,CB, C"G"G,A,B, |"C" C6 z2 |] 
+
+
+
+X:2
+T:Wohlfahrt 2 (Op. 45 No.8 )
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:C
+"Am" (E3 |"Dm/A" F3) |"Am" (E2 A) | (c2 e) |"Dm" (d2 e/d/) |"Am" (c2 d/c/) |"E7" (B3 | e3) | 
+"Am" (E3 |"Dm" F3) |"Am" (E2 A) | (c2 d) |"E7" (e3 | (d A B)) |"Am" c3- | c z2 ||"E7" (e2 B) | 
+"Am" (c d/c/ B/A/) |"E7" (B2 e) | (^g2 b) |"B7" (a2 ^f) | (^c2 ^d) |"E7" (e3 | e3) |"Am" (E3 | 
+"Dm/A" F3) |"Am" (E2 A) | (c2 d) |"E7" !>!e !>!F !>!E | !>!D !>!C !>!B, |"Am" !>!A,3- | A, z2 |] 
+
+
+
+X:3
+T:Wohlfahrt 3  (Op.45 No. 3)
+C:Franz Wohlfahrt
+L:1/16
+Q:1/4=70
+M:2/4
+I:linebreak $
+K:G
+"C" edcB ABcA |"G" dcBA GABG |"D7" cBAG FDEF |"G" GBdg bagf |"C" edcB ABcA |"G" dcBA GABG | 
+"D" FEDC"G" B,DGB |"D" cdef"G" gBcd |"C" egfg agfe |"G" dBGB dgfg |"C" egfg agfe |"G" dBGB dBed || 
+"D" cAdc"G" BGcB |"D" AGFE Dded |"D" cAdc"G" BGcB |"D" AGFE DCB,A, ||"G" G,A,B,C DEFG | 
+"D" ABcd eABc | edcB cdef | agdB GBcd ||"C" edcB ABcA |"G" dcBA GABG |"D" cBAG FDEF | 
+"G" GBdg bBcd |"C" edcB ABcA |"G" dcBA GABG |"D" FEDC"G" B,DGB |"D" cdef"G" gbag | 
+"D" fedc"G" BGFE |"D" DCB,A,"G" G,4 |] 
+
+
+
+X:4
+T:Wohlfahrt 4  (Op. 54 No. 2 )
+C:Franz Wohlfahrt
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+"G" ((Bdce)) d4 | ((Bdce)) d4 | ((g^faf))"D7" c4 | ((cBdB))"G" G4 | ((Bdce)) d4 | ((dg^fa)) g4 | 
+((^fagb)) ((agB^c)) |"D" ((edA^F)) D z z2 ||"D" ((dBc^f)) a4 |"G" ((Bedg)) b4 |"D" ((dBc^f)) a4 | 
+"G" ((BedB)) G4 | G^FAG E4 | cBdc A4 | GcBe ^d^fba | g^fag ebge | =dBc^f a4 | BedB G4 | DB,C^F A4 | 
+B,EDB, G,4 | ((B,D^CE)) D4 | ((Bd^ce)) d4 | b^fdB gfd^c | ^cB^FD B, z z2 ||"G" ((Bdce)) d4 | 
+((Bdce)) d4 |"D7" ((g^faf)) c4 |"G" ((cBdB)) G4 | FG,_A,G, F4 | EAGE C4 | B,DCE DG^FA | 
+GEDB, G, z z2 |] 
+
+
+
+X:5
+T:Wohlfahrt 5 (Op. 45 No. 2 )
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+"C" CEAG FEDC |"G7" B,CDC B,G,A,B, |"C" CEAG FEDC |"G7" B,CDC B,G,A,B, |"C" CEAG FEDE | 
+"F" FAdc BAGF |"C" EGFE"G7" DFED |"C" CG,A,B, CDE^F |"G" GBed cBAG |"D7" ^FGAG FDEF | 
+"G" GBed cBAG |"D7" ^FGAG FDEF |"G" GBed cBAB |"C" ceag ^fedc |"G" BdcB"D7" AcBA |"G" GBed cBAG | 
+"G7" =FBdc BAGF |"C" EGcB AGFE |"G7" DFBA GFED |"C" CEAG FEDC |"G7" B,CDC B,G,A,B, |"C" CEAG FEDE | 
+"F" FAdc BAGF |"C" EGFE"G7" DFED | C"C"EGE C z z2 |] 
+
+
+
+X:6
+T:Wohlfahrt 6 (Op. 45 No. 4)
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/16
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:C
+"G" d2Bc d2ga | b2Bc d2ed |"D7" c2AB c2ba |"G" g2Bc d4 |$"G" d2Bc d2ga | b2Bc d2ed | 
+"A7" ^c2ba g2Bc |"D" d2A^F D2ed |$"D7" =c2^fg a2ba |"G" g2Bc d2ed |"D7" =c2^fg a2ba | 
+"G" g2Bc d2ga |$"B7" b2^f^d B2df |"Em" a2g^f g2fe |"A7" d2^cB A2^fg |"D7" b2B^c d2cd |$ 
+"A7" e2AA A2^fg |"D" b2aa a2ba |"A7" g2AA A2ag |"D" ^f2dd d2^cd |$"A7" e2AA A2^fg | b2aa a2^cd | 
+"A7" e2gb a2B^c |"D" d2^cd"A7" e2dc |$"D" d2^cd"A7" e2dc |"D" d2AA A2ed | d2BB B2ed | d2=cc c2^fg | 
+b2a^g a2Bc ||$"G" d2Bc d2ga | b2Bc d2ed |"D7" c2AB c2ba |"G" g2Bc d4 |"G" d2Bc d2ga | 
+b2Bc d2g^f |$"C" e2ag"D" ^f2ba |"G" g2bg"D" d2e^f |"G" g2bg"D" d2e^f |"G" g2bg d2gd | 
+"G" B2dB G2BG |"G" D2GD B,2DB, |"G" G,2 z2 z4 |] 
+
+
+
+X:7
+T:Wohlfahrt 7 Op 74 No 1
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/16
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:G
+"G" (edBdBd)"C" (cecece) |"G" (dBdBce) (dBdgb2) |"D7" (cAcABd) (cAcfa2) | 
+"G" (BGFAGB)"D7" (AcBdce) |$"G" (dBdBdB)"C" (cecece) |"G" (dBdBce) (dBdgb2) | 
+"D" fabagf"A7" eabage |"D" dAdA^cA"D7" eAdA=cA |$"G" (dBdBdB)"C" (cecece) |"G" (dBdBce) (dBdgb2) | 
+"D7" (cAcABd) (cAcfa2) |"G" (BGFAGB)"D7" (AcBdce) |$"G" (dBdBdB)"C" (cecece) | 
+"G" (dBdBce) (dBdgb2) |"D/A" babafa"A7" babage |"D" d2^cdcd ededed |$"D7" (=cdcdcf) (babaf)c | 
+"G" (Bd^cdcd) (ededBG) |"D7" (=cdcdcf) (babaf)c |"G" (Bd^cdcd) (ededBG) |$"C" (EGEGEG) (AGFGAB) | 
+"C??" (cBcBcB) (cBcBcB) |"D7" cdeded"G" Bdeded |"D7" Ad^cdcd ededed |$"D7" =cdcdcd babafc | 
+"G" Bd^cdcd ededBG |"D7" =cdcdcd babafc |"G" Bd^cdcd ededBG |$"C" (EGEGEG) (AGFGAB) | 
+(cBcBcB) (cBABcd) | (ededBd) (BdedBd) |"D7" (Adeded) (ededed) |$"G" (edBdBd)"C" (cecece) | 
+"G" (dBdBce) (dBdgb2) |"D7" (cAcABd) (cAcfa2) |"G" (BGFAGB)"D7" (AcBdce) |$ 
+"G" (dBdBdB)"C" (cecece) |"G" (dBdBce) (dBdgb2) | Aceded cfbaba | gdBGDB, G,2 z4 |] 
+
+
+
+X:8
+T:Wohlfahrt 8 Op 74 No 1
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+!f!"C" ceBd ceBd | cGEG AGEC |"G" G,B,DC B,AGE | Fedc BagB |"C" ceBd ceBd |$ cGEG AGEC | 
+"G/D" B,G^FE DGBe |"D7" d^fba gdBc |"D7" de^ce dece | d^faf dAB=c |$"G" Bdce dg^fa | gba^f gdBc | 
+"D7" de^ce dece | d^faf dAB=c |"G" Bdce dg^fa |$ gba^f gdBG |"C" EB,CD CA,B,C | EB,CD CEAG | 
+"D7" ^FAcd ed^fb |"G" agd^c edBG |$"D7" ^FAcd ed^fb |"G" agd^c edBG |"G7" =FGEG FG,B,D | 
+"G7" FGEG FG,B,D |"G7" FGEG FGEG |$ FG,B,D FBed |"C" ceBd ceBd | cGEF AGEC |"G7" G,B,DC B,AGE | 
+Fedc BagB |$"C" ceBd ceBd | cGEG ceBd |"C" cGEC"G7" B,A,B,G, |"C" C2 z2 z4 |] 
+
+
+
+X:9
+T:Wohlfahrt 9
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:F
+"F" cBABcd | cBABcd | cBABcd | efgaba |"C7" gabagf | efgfed | cdedcB | ABcdcB |$"F" ABcdcB | 
+ABcdcB | ABcdef | gabagf |"C7" efgaba | gfedcB | AGFEDE |"F" FA,B,CDE ||$"F" FAcfed |"C7" cBegab | 
+"F" afcAGF |"C7" EGFEDE |"F" FAcfed |"C7" cBegab |"F" afcAGF |"C7" EGFEDE |$"F" FA,CFAF | 
+"C7" EG,B,EAG |"F" FA,CFAF |"C7" EG,B,EAG |"F" FA cf ga |"C7" bg ec BG |"F" FA cf cA | F2 z4 |] 
+
+
+
+X:10
+T:Wohlfahrt 10
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+"Bb" BABc dcBA |"Eb" G^FGA BAG=F |"Cm" EDCB,"F7" A,CFE |"Bb" DEFD B,DFB |$"Bb" d^cde dBGF | 
+"C7" =EFGB =efgb |"F" a^gaf"C7" =g^fg=e |"F" f=efc AFGA |$"Bb" BABc dcBA |"Eb" G^FGA BAG=F | 
+"Cm" EDCB,"F7" A,CFE |"Bb" DEFD B,DEF |$"Eb" G^FGB egbg |"Bb" f=efd ABcd |"F7" _edec AFEC | 
+"Bb" A,B,DF Bdfb ||$"F/C" a^gaf"C7" =ecBG |"F" F=EFA CFAc |"C7" BABg"F" fcAF |"C7" =EFGA Bcd=e | 
+"F" f=efg afga |$"Bb" babf dBcd |"F" c=Bcf a"C7"c_Bg |"F" f=efc"F7" AFGA ||$"Bb" BABc dcBA | 
+"Eb" G^FGA BAG=F |"Cm" EDCB,"F7" A,CFE |"Bb" DEFD B,DFB |$"Bb" d^cde dBGF |"C7" =EFGB =efgb | 
+"F" a^gaf"C7" =g^fg=e |"F" f=efc AFGA |$"Bb" BABc dcBA |"Gm" G^FGA BAG=F |"Cm" EDCB,"F7" A,CFE | 
+"Bb" DEFD B,DEF |$"Eb" G^FGB egbg |"Bb" f=efd ABcd |"F7" _edec AFEC |"Bb" A,B,DF B2 z2 |] 
+
+
+
+X:11
+T:Wohlfahrt 11
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/16
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:F
+"F" C=B,(CB,) CB,(CB,) | .C2.A2.F2.A,2 |"C7" _B,A,((B,A,)) B,A,((B,A,)) | .B,2.G2.E2.D2 |$ 
+"F" C=B,(CB,) CB,(CB,) | .C2.A2.G2.F2 |"C" EG(AG)"G7" F=B(ed) |"C" .c2.G2.E2.D2 |$ 
+"F" C=B,(CB,) CB,(CB,) | .C2.A2.F2.A,2 |"C7" _B,A,(B,A,) B,A,(B,A,) | .B,2.G2.E2.D2 |$ 
+"F" C=B,(CB,) CB,(CB,) | .C2.A2.G2.F2 |"C" EG(AG)"G7" F=B(ed) |"C" .c2.G2.E2.C2 ||$ 
+"C7" (_B,A,)CB, (G^F)AG |"F" =FE(GF) C=B,(DC) |"C7" (_B,A,)CB, (G^F)AG |"F" =FE(GF) C=B,(DC) |$ 
+"F7" (FE)GF (_ED)FE |"Bb" DG(FD) B,D(Fd) |"F" (cA)EF"C7" (AG)DE |"F" FE(GF) C=B,(DC) |$ 
+"Bb" (_B,A,)CB, (G^F)AG |"F" =FE(GF) C=B,(DC) |"Bb" (_B,A,)CB, (G^F)AG |"F" =FE(GF) C=B,(DC) |$ 
+"F7" =FE(GF) _EDFE |"Bb" DG(FD) B,D(Fd) |"F" (cA)=EF"C7" (AG)DE |"F" (FE)GF C=B,DC |$ 
+"G7" .=B,2.D2.G2.F2 |"C" (ED)FE C=B,DC |"G7" .=B,2.D2.G2.F2 |"C" (ED)FE (C=B,)DC |$ 
+"F" .A,2.C2.F2.A2 |"F" (c=B)dc"C7" (G^F)AG |"F" .=F2.D2.A,2.=B,2 |"C7" (C=B,)CD (ED)CB, |$ 
+"F" C=B,(CB,) CB,(CB,) | .C2.A2.F2.A,2 |"C7" _B,A,B,A, B,A,B,A, | .B,2.G2.E2.D2 |$ 
+"F" C=B,CB, CB,CB, | .C2.F2.A2.c2 |"Gm" dB(DG)"C7" FE(DE) |"F" .F2.A2.F2 z2 |] 
+
+
+
+X:12
+T:Wohlfahrt 12
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+"C" cded cEFA | GAGE CEGc |"F" ABcA FEFA |"C" GAGE CG,CE |$"G7" GFDB, G,B,DF |"C" AGEC G,CDE | 
+"G7" GFDB, G,B,DF |"C" AGEC G,CEG |$"C" cded cE"E7"^F^G |"Am" ABcB Acea |"G7" bgdB"D7" dcA^F | 
+"G7" AGDB, G,GAB |$"C" cded cEFA | GAGE CEGc |"F" ABcA FAcf |"C" agec GBcd |$"E7" edB^G Ee^f^g | 
+"Am" baec ABcd |"E7" edB^G Ee^f^g |"Am" baec ABcd |$"E7" edcB"Am" cAcd |"E7" edcB"Am" cAcd | 
+"C?" edcB"D7" c^fba |"G" g^faf"D7" dcBA |$"G" GABA GB,CE | DEDB, G,B,DG |"C" E^FGE CEGc | 
+"G" BedB GDGB |$"D7" BcA^F Dde^f |"G" agdB GDGB |"D7" dcA^F Dde^f |"G" agdB"G7" GDE=F |$ 
+"C" EFGE CEGc |"F" ABcA FEFA |"C" Gcea"G7" gfdB |"C" dcGE C2 z2 |] 
+
+
+
+X:13
+T:Wohlfahrt 13 Op 45 No 16
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:C
+"^13""C" (EF^FGAG) | c6 |"C" (EF^FGAG) | e6 |"G7" (dBc^cde) | (dBc^cde) |$"G" (dBc^cde) | 
+(d=cBAGF) |"C" (EF^FGAG) | c6 |"C" (EF^FGAG) | e6 |$"G/D" (Bc^cdeB) |"D7" (d^c=cBcA) | 
+"G" (GA^AB=AG) |"G7" (^FGAGF=F) |"C" (EF^FGAG) | c6 |$"C" (EF^FGAG) | e6 |"C?" (^cded=cB) | 
+"C?" (^ABcB=AG) |"D7" (^FAcde^f) |"G" g6 |$"D7" (g^f^efaf | c6) |"G" (=ed^cd^fg) | b6 | 
+"G" (Bc^cdeB) |"D7" (d^c=cBcA) |$"G" (=GBcde^f) | g6 |"G7" (a_ag=fef) | d6 |"Cm" (c'bc'd'_e'c') | 
+g6 |$"Fm" (_AGFEFD) |"Cm" (GF_EDEC) |"G" (G,B,CD=E^F) | G6 |"C" (EF^FGAG) | c6 |$"F" (A_B=Bcdc) | 
+a6 |"C/G" (g^fagec) |"G7" (BGFDB,G,) |"C" (CEFGAB) | c6 |] 
+
+
+
+X:14
+T:Wohlfahrt 14 Op 74 No 2
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:G
+"G" dBeB dBeB | dBdg bagB |"D7" dcfg afdc |"G" BedB GDGB |$"G" dBeB dBeB | dBdg bagB | 
+"A7" ^cbaB AgBc |"D" edAF Dded |$"D7" =cfba Aced |"G" BedB GBed |"D7" =cfba Aced |"G" BedB GFAG |$ 
+"Cm" cd_ed cG_EC |"G" B,=EDG Bd^cd |"Am" e^GAB"D7" d=cfb |"G" gBeB d^ced |$"D7" =cfba Aced | 
+"G" BedB GG,B,C |"D7" CFBA Acba |"G" gBdB GBcd |$"Cm" _e_EGG, CEGc |"G" Bdga bBcd | 
+"C?" f^gba"C?" Aced |"D7" DFBA GDGB ||$"G" dBeB dBeB | dBdg bagB |"D" dcfg afdc |"G" BedB GDGB |$ 
+"G" dBeB dBeB | dBdg bagd |"D7" edcE GFEF |"G" AGDB, G, z z2 |] 
+
+
+
+X:15
+T:Wohlfahrt 15 Op 45 No 14
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:D
+"^15""D" D2 fd AFDF | A2 dA FDA,D |"A7" C2 ge cAEA | c2 ec AEFG |"D" F2 fd Adfa |$"G" b2 gd Bdgb | 
+"D" a2 fd Adfa |"G" b2 gd Bdgb |"D" a2 ^ga bafd |"A7" c2 EF AGFE |$"D" F2 fa bafd | 
+"A7" c2 EF AGFE |"D" F2 DF"D7" A=ced |"G" B2 E^G"E7" Bdfe |"A" ^c2 F^A"F#7" cegf |$ 
+"D" d2 Ac"A7" egba |"D" f2 A,D FAdf |"A7" g2 A,C EGce |"D" f2 A,D FAdf |"A7" g2 A,C EGce |$ 
+"D" f2 DF Adfa |"G" g2 DG Bdgb |"Bm" a2 DF"A7" Adfa |"A7" g2 Ac egfe |"D" d2 af dAFA |$ 
+"D" d2 fd AFDF |"D" A2 A,D FAdf |"A7" a2 ge cAGE |"D" D4 A,DFA |"D" d4 A,DFA |"D" d2 z2 [DAf]2 z2 | 
+[Dd]6 z2 |] 
+
+
+
+X:16
+T:Wohlfahrt 16 Op 45 No 14
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:D
+"^16""D" (A,B,C DEF) |"A7" (G3 FGA) | (Bcd edB) |"D" (d3 fba) |"A7" (a3 egb) |"D" (a3 Adc) |$ 
+"G" (Bed"A7" cBc) |"D" (dBA FDB,) |"D" (A,B,C DEF) |"A7" (G3 FGA) | (Bcd edB) |"D" (d3 fba) |$ 
+"E7" (^gfg efg) |"A" (aec ABc) |"E7" (Bcd EF^G) |"A" (Ace a^ga) ||$"A7" (b^ab =gfg) | (ecB Aga) | 
+"A7" (b^ab =gfg) | (ecB AGE) |$"D" (DFA dcd) |"G6" (Be=g =bge) |"D" (afd"A7" ABc) | 
+"D" (dAF DCB,) |$"A7" (A,CE GAc) | (^dec AEC) |"A7" (A,CE GAc) | (^dec AGE) |$"D" (DFA dfa) | 
+"G" (bge BGE) |"D" (AA,A"A7" A,B,C) |"D" D3- D z z |] 
+
+
+
+X:17
+T:Wohlfahrt 17 Op 54 No 9
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:G
+"G" (BG)DB, G, z | (dB)GD B, z | (BG)DB, G, z | (dB)GD B, z |$"C" (ec)GE C z | (ge)cG E z | 
+"G" (bg)dB G z | (BG)DB, G, z |$"D7" (dc)AF D z |"G" (ed)Bd g z |"D7" (dc)AF D z |"G" (ed)Bd g z |$ 
+"D" A,DFA d z |"A7" A,G^ce a z |"D" DFAd fa |"D7" bafe d=c ||$"G" BGDB, G, z | (dB)GD B, z | 
+(BG)DB, G, z | (dB)GD B, z |$"C" (ec)GE C z | (ge)cG E z |"G" (bg)dB G z | (BG)DB, G, z |$ 
+"E7" edB^G E z |"Am" baec A z |"D7" dcAF D z |"G" agdB G z |$"Am" EAcd e z |"D7" DFAc f z | 
+"G" gdBGDB, | G, z z2 z2 |] 
+
+
+
+X:18
+T:Wohlfahrt 18 Op 54 No 14
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:G
+"G" z"^18" (G2 F | A) (G2 ^D |"C" E) (G2 c | e) (E2 A |"D" G) (F2 d | c) (B2 e | d) (^c2 a | 
+"D7" f) (d2 =c |$"G" B) (g2 f | a) (g2 B |"C" e) (G2 c | B) (e2 =d | c)"D7" (E2 A |"G" G) (B,2 E | 
+"D7" D) (F2 d |"G" B) (G2 =F |$"E7" E) (e2 B |"Am" d) (c2 a |"E7" ^g) (b2 B |"Am" d) (c2 E | 
+"D7" D) (d2 A |"G" c) (B2 g |"D7" f) (a2 A |"G" c) (B2 g |$"G" b) (B2 g |"G" b) (B2 g | 
+"G" b) (B2 g |"G" b) (B2 c |"G" d) (D2 G |"G" d) (D2 G |"G" d) (D2 E |"D7" F) (C2 A, ||$ 
+"G" G,) G2 F | A (G2 ^D |"C" E) (G2 c | e) (E2 A |"D" G) (F2 d | c) (B2 e | d) (^c2 a | 
+"D7" f) (d2 =c |$"G" B) (g2 f | a) (g2 B |"C" e) (G2 c | B) (e2 =d | c)"D7" (E2 A |"G" G) (B,2 C | 
+"D7" D) (A,2 B, |"G" G,) (g2 a |$"G" b) (d2 e | d) (g2 a |"G" b) (d2 e | d) (g2 a |"G" b) (B,2 A, | 
+G,) (g2 a |"G" b) (B,2 A, | G,) (g2 a |$"G" b) (b2 g | d) (d2 f |"G" g) (g2 d | B) (B2 c | 
+"G" d) (d2 B | G) (B2 d |"G" g) (D2 B, | G,) z z2 |] 
+
+
+
+X:19
+T:Wohlfahrt 19 (Op 74 No 6 )
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=100
+M:12/8
+I:linebreak $
+K:C
+"^19""C" cBc dcB ced cEF |"C" G^FG AGF GEA GEC |"G7" G,=FE FG,_A, G,FE FG,A, |$ 
+"G7" G,FE Fdc Bag fdB |"C" cBc dcB ced cEF |"C" G^FG AGF GEA GE^C |$"A7" A,G^F GA,_B, A,GF GA,B, | 
+"A7" A,G^F Ged ^c_ba gec |"Dm" d^cd edc dFG AFD |$"G" G^FG AGF GB,C DB,G, | 
+"C" CB,C"G7" DCB,"C" CEA"D7" ^FEF |"G" G^FG"D7" AGF"G" GDE"G7" =FA,B, ||$"C" CB,C DCB, CEG AG^F | 
+"C" Ged cE=F"G7" GAG FA,B, |"C" CB,C"G7" DCB,"C" CAG"G7" Fdc |$"G" Bag ^fga"G" gBc ded | 
+"G7" =fg"Cn/c"f baf dBG FBe ||"C" cBc"G7" =dcB"C" ce=d cEF |$"C" G=c=e dBc"Adim" Ac_e dBc | 
+"C" Gc=e dBc"G7" baf dBG |"C" cBc"G7" dcB"C" ced cEF |$"C" G^FG AGF"G" GG,A, B,A,B, | 
+"C" CB,C"G7" DCB,"C" CG,A,"G7" B,A,B, |"C" C2 z2 z8 |] 
+
+
+
+X:20
+T:Wohlfahrt 20 Op 45 No 22
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:C
+(G,A,B, ||"C" !>!C)(G,A,B, C)(G,A,B, |"C" !>!C)(EGc e)(cGE |"C" !>!C)(G,A,B, C)(G,A,B, | 
+"C" !>!C)(EGc e)(cGE |$"Dm" !>!D)(A,B,^C D)(A,B,C |"Dm" !>!D)(FAd f)(dAF | 
+"Dm" !>!D)(A,B,^C !>!D)(A,B,C |"Dm" !>!D)(FAd !>!f)(dAF |$"G" !>!D)(G,B,C !>!D)(G,B,C | 
+"G7" !>!D)(FBd !>!f)(dBG |"G" !>!D)(G,B,C !>!D)(G,B,C |"G" !>!D)(FBd !>!f)(dBG |$ 
+"C" !>!E)(G,A,B, !>!C)(B,CD |"C" !>!E)(Gce !>!a)(g^fg |"G" !>!a)(g^fe !>!d)(cBA | 
+"G" !>!G)(DE^F G)(BAG |$"D7" !>!^F)(ed^c !>!d)(edc |"D7" !>!d)(^fag f)(ed=c | 
+"G" !>!B)(ed^c !>!d)(edc | !>!d)(bgd !>!=c)(BAG |$"D7" !>!^F)(ed^c !>!d)(edc | 
+!>!d)(^fag !>!f)(ed=c |"G" !>!B)(ed^c !>!d)(edc | !>!d)(bgd !>!=c)(BAG |$ 
+"D" !>!^F)(GAB !>!c)(^fg!>!a |"G" !>!b)(ag^f !>!g)(dBG |"D" !>!^F)(GAB !>!c)(^fga | 
+"G" !>!b)(ag^f !>!g)(dBG |$"G7" !>!=F)(GFE !>!F)(AGF |"C" !>!E)(Gce !>!a)(g^fe | 
+"G" !>!d)(Bed"D7" !>!c)(DE^F |"G" !>!G)(^FGA !>!G)(=FED ||$"C" !>!C)(G,A,B, C)(G,A,B, | 
+"C" !>!C)(EGc e)(cGE |"C" !>!C)(G,A,B, !>!C)(G,A,B, |"C" !>!C)(EGc e)(cGE |$ 
+"Dm" !>!D)(A,B,^C D)(A,B,C |"Dm" !>!D)(FAd !>!f)(dAF |"Dm" !>!D)(A,B,^C !>!D)(A,B,C | 
+"Dm" !>!D)(FAd !>!f)(dAF |$"G" !>!D)(G,B,=C !>!D)(G,B,C |"G" !>!D)(FBd !>!f)(dBF | 
+"G" !>!D)(G,B,C !>!D)(B,DE |"G" !>!F)(Bdc !>!B)(AGF |$"C" !>!E)(GcB"F" !>!A)(dfa | 
+"C" !>!g)(gec"G7" !>!B)(GFD |"C" !>!C)(EGc"F" !>!A)(dfa |"C" !>!g)(gec"G7" !>!B)(GFD |$ 
+"C" !>!C)(G,A,B, !>!C)(G,A,B, |"C" !>!C)(EGc !>!e)(cGE |"C" !>!C)(G,A,B, !>!C)(G,A,B, | 
+"C" !>!C)(EGc !>!e)(cGE |$"C" !>!C)(G,A,B, !>!C)(EFG |"F" !>!A)(FGA"G" !>!B)(GAB | 
+"C" !>!c)(cGE !>!C)"G7"(G,A,B, |"C" C2) z2 z4 |] 
+
+
+
+X:21
+T:Wohlfahrt 21 Op 54 No 12
+C:Franz Wohlfahrt / K.H. Aiquoni
+L:1/8
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:C
+"C" .G(G/E/ G).G |"F" .A(A/F/ A).A |"C" .G(G/E/ G).c | .e(G/E/ G).A |"C" .G(G/E/ G).G |$ 
+"F" .A(A/F/ A).A |"C" .G(G/E/ G).c | .e(G/E/ G).c |"G7" .B(B/d/ F).F |"C" .E(E/G/ c).c | 
+"G7" .B(B/d/ F).F |$"C" .E(E/G/ c).c | .B(B/d/ e).B | .d(d/g/ b).B | .d(D/E/ D).^F | 
+.G(G,/A,/ G,).G |$ .A(F/E/ F).B | .c(A/G/ c).E | .G(F/E/ F).B | .c(c/B/ c).e | .g(_B/c/ B).e |$ 
+.d(c/B/ c).f | .d(g/a/ g).d | .e(c/d/ c).G | .A(F/E/ F).B | .d(c/B/ c).E |$ .G(F/E/ F).B | 
+.d(c/B/ c).A | .^F(d/e/ d).c | .B(g/a/ g).e | .d(D/E/ D).^F |$ .G(G,/A,/ G,).A || 
+"C" .G(G/E/ G).G |"F" .A(A/F/ A).A |"C" .G(G/E/ G).c | .e(G/E/ G).A |$"C" .G(G/E/ G).G | 
+"F" .A(A/F/ A).A |"C" .G(G/E/ G).c | .e(G/E/ G).c |"G7" .B(B/d/ F).F |"C" .E(E/G/ c).c |$ 
+"G7" .B(B/d/ F).F |"C" .E(E/G/ c).c | .a(c/d/ c).f | .d(B/c/ B).G | .c(G/A/ G).E | C2 z2 |] 
+
+
