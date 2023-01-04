@@ -1,0 +1,259 @@
+
+X: 1
+T: 1_Atholl Highlanders
+M: 6/8
+L: 1/8
+R: jig
+K: Amaj
+|:e2e ecA|ecA Bcd|e2e ecA|Bcd cBA|
+e2e ecA|ecA Bcd|eae fed|cdB A3:|
+Ace Ace|Adf Adf|Ace Ace|Bcd c2B|
+Ace Ace|Adf Adf|eae fed|cdB A3:|
+|:a2a aec|a2a aec|a2a aec|Bcd cBA|
+a2a aec|a2a aec|eae fed|cdB A3:|
+c2c cBA|d2d fed|c2c cBA|=G2=G BA=G|
+c2c cBA|d2d fed|eae fed|cdB A3:|
+
+
+X: 2
+T: 2. Behind The Haystack (Jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2e fdB|d2e fdB|AFE ~E3|AFE EFA|
+d2e fdB|d2e fdB|AFD ~D3|AFD DFA:|
+|:~B3 BAF|ABc dcB|AFE ~E3|AFE EFA|
+~B3 BAF|ABc dcB|AFD ~D3|1 AFD DFA:|2 AFD D2f||
+|:~g3 faf|ede fdB|AFE ~E3|AFE E2f|
+~g3 faf|ede fdB|AFD ~D3|1 AFD D2f:|2 AFD DFA|| 
+
+X: 3
+T:3. The Butterfly - Attributed to Tommy Potts et al.
+M:9/8
+L:1/8
+R: Slip Jig
+K:Em
+|:"Em"B2EG2E"D"F3|"Em"B2EG2E"Bm7" FED|"Em"B2EG2E "D"F2A|"Bm7"B2c d2B AFD:|/
+|:"Em"B2de2f"Bm7"g3|"Em"B2dg2e "Bm7"dBA|"Em"B2de2f"Bm7"g2a|"Bm7"b2ag2e dBA:|/
+|:"G"B3B2A"Am7"G2A|"G"B3 BAB "D"dBA|"G"B3B2A"Am7"G2A|"Bm7"B2dg2e dBA:|/
+
+
+
+
+X:4
+T:4. Chaines des Dames
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:F
+A |:"Dm" A^GA d2 e | fgf"Am" efe |"Dm" A^GA d2 e | fgf"Am" e3 |$"Dm" ABA f3 | efe d2 d | 
+^cde d2 d | ^cde d3 :|$"D" A=Bc d3- | de^f"G" g2 =B |"C" cdc"G" =BcB |"D" A=BA"G" GDG |$ 
+"F" GAG a3 | gag f2 f | fed ced | cBG F2 c |:$"F" cdc a3 | gag fgf | cdc"C7" b3 | aba gag |$ 
+cdc"F" a2 a | gag fgf |1 fed"C" ced | cBG"F" F2 c :|2 fed"C" ced | cBG"F" F2 z |] 
+
+X: 5
+T:5. Calliope House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|dAA fAA|eAA fAA|Bee e2d|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 e2A:|2 f2f edc|d3 efg||
+a2a faa|eaa faa|g2g fgf|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 efg:|2 f2f edc|d3 d3|| 
+
+
+X: 6
+T: 6. The Cliffs Of Moher
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:a3 bag|eaf ged|c2A BAG|EFG ABd|
+eaa bag|eaf ged|c2A BAG|EFG A3:|
+e2e dBA|e2e dBA|GAB dBA|GAB dBd|
+e2e dBA|e2e dBA|GAB dBA|EFG A3|
+efe dBA|efe dBA|GAB dBA|GAB dBd|
+efe ded|cec BeB|GAB dBA|EFG A3| 
+
+
+
+X: 11
+T:11. Favourite Dram
+T: ( Slip Jig )
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:B2 c dBG G2 f|g2 e dBG G2 c|B2 c dBG GAB|c2 B AFD D2 c:|
+|:(B>AB) (B>AB) G2 c|B2 c dBG G2 c|1 (B>AB) (B>AB) G2 B|
+c2 B AFD D2 c:|2 B2 c dBG gdB|c2 B AFD D2 d||
+|:gdB gdB G2 f|1 g2 e dBG G2 f|gdB gdB G2 B|c2 B AFD D2 d:|
+[2 g2 e dBG G2 c|Bcd def gdB|c2 B AFD D2||
+
+X: 12
+T: 12. Garry Owen
+Z: Caoimhin
+S: https://thesession.org/tunes/1372#setting1372
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+dc|:BAG FED|FGF Fdc|BAG FED|EFE Edc|
+BAG FED|FGF F2 G|ABc dAF|1 EFE E dc:|2 EFE EFG||
+|:A2 F A2 F|A2 F Adc|B2 G B2 G|B2 G B2 c|
+d2 e f2 e|dcB AFG|ABc dAF|1|3EFE EFG:|2 4EFE E dc||
+
+X:13
+T:13. The Grey Buck
+M:6/8
+L:1/8
+R:Jig
+B:Kerr - Merry Melodies, vol. 4 (c. 1880's, No. 263)
+Z:AK/Fiddler's Companion
+K:Amix
+a|eAe edB|dBA A2g|dGd dBA|BAG G2g|
+fed efg|aAa e2f|g2e dBd|e2A A2:|
+|:g|aAa efg|aAa e2f|geg def|geg d2g|
+aAa efg|aAa e2f|g2e dBd|e2A A2:||
+
+
+
+
+X: 14
+T:14. Haste to the Wedding #1
+C:Joe Buchanan's Scottish Tome - Page 231.3
+I:231 3
+Z:Carl Allison
+R:Jig
+M:6/8
+K:D
+A | "D"AFA Agf | "Em"ede "A7"fdB | "D"AFA "Bm"AdF | "Em"GFG "A7"E2 A |
+"D"AFA Agf | "Em"ede "A7"fdB | "D"A2 g "A7"faf | "D"ded d2 :|
+a | "D"afa afa | "G"bgb bgb | "D"afa "B7"agf | "Em"gfg "A7"efg |
+"D"a2 z f2 z | "G"dee fdB | "D"A2 g faf | "Em"ded "D"d2 :|
+W:Errata: First line erroneously labeled as key of A on original pdf. Entire tune now key of D.
+
+X:15
+T:15. Kesh Jig, The
+T:Kerrigan's Jig
+M:6/8
+Z:Boston  It is _very_ widely played.
+R:jig
+K:G
+D|~G3 GAB|ABA ABd|edd gdd|edB dBA|~G3 GAB|ABA ABd|edd gdB|AGF G2:|
+A|~B3 dBd|ege dBG|~B3 dBG|ABA AGA|BAB dBd|ege dBd|gfg aga|bgf g2:| | 
+
+X: 19
+T: 19. The Lilting Banshee
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:EAA EAA|BAB G2A|Bee edB|def gfg|
+eAA eAA|BAB G2A|Bee edB|dBA A3:|
+eaa age|dBA G2A|Bee edB|def gfg|
+eaa age|dBA G2A|Bee edB|dBA A3:| 
+
+X: 20
+T: 20. Maison De Glace
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+D3 DEF|ABA AFA|(AB)B Bcd|cBA GFE|D2A, DEF|
+ABA AFA|1 (AB)B BAG|F3 EFE:|2 (AB)B Bcd|c3 cAF||
+B3 Bcd|(AB)B Bcd|fed edc|dcA dcA|
+(AB)B Bcd|(AB)B Bcd|fed edc|1 Adc (d2c):|2 Adc d3|| 
+
+
+X:22
+T: 21. Merrily Kiss the Quaker's Wife
+Z:Boston
+R:slide
+K:G
+D|GAB D2B|c2A BGE|GAB DEG|~A3 A2D|GAB D2B|c2A BGE|GAB D2 E|G3 G2:|
+c|BGGAGG|BGG AGE|GAB DEG|A3 AGA|BGG AGG|BGG AGE|GAB D2E|G3 G2:|
+d|~g3 aga|bge dBd|~g3 gab|~a3 aba|gbg faf|ege dBA|GAB D2 E|G3 G2:|
+ 
+
+X: 22
+T: 22. Morrison's (Jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|:TE3 BEB|EBE AFD|TE3 BEB|edB AFD|
+E3 BEB|EBE AFD|EBE BEB|edB AFD:|
+eee fee|aee fee|efe fef|a2 g fed|
+eee fee|bee fee|e/f/ge fde|dcB AFD||
+eee fee|bee fee|bee fef|a2 f def|
+gba/g/ fag/f/|egf/e/ def/g/|egf/e/ d2 A|BAG FED|| 
+
+X: 23
+T: 22 Munster Buttermilk 
+T: (Jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+gfg age|d2B BAB|d2B BAB|dBG G2d|
+gfg age|d2B BAB|dBG GAB|A3 G3:|
+|:d2e g2a|b2b bag|a2a age|gfg age|
+d2e g2a| b2b bag|age dgb|a3 g3:| 
+
+
+
+X: 26
+T: 26. The Pipe On The Hob (jig)
+M: 6/8
+L: 1/8
+R: jig
+B: Roaring Jelly Collection
+Z: abc by J. Walsh
+K: Dmix
+A | "D"d^cd A2G | F2D DED | "C"EDE cBc | E2D "D"D2A |
+  | "D"dcB "Am7"cBA | "Bm7"BAG "Am7"A2G | "C"EDE cBc | "C"E2D "D"D2 :|
+g \
+|: "D"f2d d^cd | f2d d^cd | "C"edB c2d | "C"ede "A"age |
+[1 "D"f2d d^cd | f2d d^cd | "C"ede age | "A"ed^c "D"d2e :|
+[2 "D"fef "C"gfg | "D/B"afa "Am7"g2e | "D"fed "C"eag | "A"ed^c "D"d2 |]
+
+
+
+X: 31
+T: 31 Stan Chapman's (jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+~E3 EFA|~B3 Bce|fea fec|ecA BAF|
+~E3 EFA|~B3 Bce|fea fec|ecA A3:|
+e3 ece|~f3 fga|ecA ~B3|cAE Eaf|
+e3 ece|~f3 fga|ecA ~B3|1 cAA Aaf:|2 cAA A3||
+
+X: 33
+T: 33.The Stool Of Repentance (Jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:a2e c2e|agf e2c|aff f2e|fag f2e|
+a2e c2e|agf e2c|d2e f2e|fac B2a:|
+|:cAA eAA|cAA edc|dBB fBB|dBB fed|
+cAA eAA|fag a2e|d2e f2e|fac B2a:| 
+
+
+
+
+
+
+
+
+
+
+
+
+
